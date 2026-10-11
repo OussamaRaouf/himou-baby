@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Himou Baby – Gestion du magasin",
+  "short_name": "Himou Baby",
+  "description": "Ventes, produits, stock et vendeurs en français et en arabe.",
+  "lang": "fr-DZ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f8fc",
+  "theme_color": "#1689e8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
